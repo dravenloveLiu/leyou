@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>ly-registry</module>
+        <module>ly-api-gateway</module>
     </modules>
 
     <parent>
